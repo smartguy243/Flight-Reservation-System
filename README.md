@@ -47,7 +47,7 @@ The program manages flight bookings, allowing users to add, modify and cancel re
 ## Getting Started
 ```bash
 1. Clone the repository to your local machine:  
-   git clone https://github.com/smartguy243/Salary-Paycheck-Calculator.git
+   git clone https://github.com/smartguy243/Flight-Reservation-System.git
    
 2. Navigate to the exercises directory.  
    
@@ -55,3 +55,9 @@ The program manages flight bookings, allowing users to add, modify and cancel re
 ```
 
 ## Contribute
+
+We welcome contributions! If you have ideas for new projects or improvements to existing ones, feel free to submit a pull request.
+
+## Connect with Us:
+
+Follow this account and contribute your skills to this growing repository. Feel free to reach out for discussions, questions, or feedback!
