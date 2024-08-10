@@ -92,6 +92,7 @@ public class FlightBookingSystem {
     static void modifyBooking(Scanner scanner) {
         System.out.print("Enter the id number of the booking to be updated (1 to " + bookings.size() + "): ");
         int id = scanner.nextInt() - 1;
+        scanner.nextLine();
 
         if (id >= 0 && id < bookings.size()) {
             System.out.print("Enter a new name for your booking : ");
