@@ -24,7 +24,7 @@ Create a flight reservation system that enables reservations to be managed.
 
 ## Program description
 
-The program manages flight bookings, allowing users to add, modify and cancel reservations..
+The program manages flight bookings, allowing users to add, modify and cancel reservations.
 
 ## Features
 
